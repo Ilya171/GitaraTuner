@@ -1,0 +1,1542 @@
+{
+  "score": {
+    "infos": {
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "guitarType": "BPM",
+      "tuning": [
+        {
+          "string": "1",
+          "pitch": "E2"
+        },
+        {
+          "string": "2",
+          "pitch": "A2"
+        },
+        {
+          "string": "3",
+          "pitch": "D3"
+        },
+        {
+          "string": "4",
+          "pitch": "G3"
+        },
+        {
+          "string": "5",
+          "pitch": "B3"
+        },
+        {
+          "string": "6",
+          "pitch": "E4"
+        }
+      ],
+      "capo": ""
+    },
+    "timeline": [
+      "1",
+      "1",
+      "2",
+      "3",
+      "4",
+      "3",
+      "4",
+      "3",
+      "5",
+      "3",
+      "6",
+      "3",
+      "4",
+      "3",
+      "4",
+      "3",
+      "5",
+      "3",
+      "4",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "7",
+      "8",
+      "9",
+      "10",
+      "9",
+      "11",
+      "9",
+      "10",
+      "9",
+      "11",
+      "12",
+      "8",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "13",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "14",
+      "8",
+      "15",
+      "16",
+      "17",
+      "18",
+      "15",
+      "16",
+      "19",
+      "18",
+      "15",
+      "16",
+      "19",
+      "18",
+      "15",
+      "16",
+      "19",
+      "18",
+      "12",
+      "8",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "5",
+      "3",
+      "12",
+      "8",
+      "9",
+      "10",
+      "9",
+      "11",
+      "9",
+      "10",
+      "9",
+      "11",
+      "20",
+      "21"
+    ],
+    "measure": {
+      "1": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "1"
+        ],
+        "sectionName": ""
+      },
+      "2": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "sectionName": "Intro"
+      },
+      "3": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "9",
+          "10"
+        ],
+        "sectionName": ""
+      },
+      "4": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "sectionName": ""
+      },
+      "5": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "3",
+          "8"
+        ],
+        "sectionName": ""
+      },
+      "6": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "sectionName": "Verse 1"
+      },
+      "7": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "11",
+          "11",
+          "11",
+          "11"
+        ],
+        "sectionName": "Chorus 1"
+      },
+      "8": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "12",
+          "12",
+          "12",
+          "12"
+        ],
+        "sectionName": ""
+      },
+      "9": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "14",
+          "18"
+        ],
+        "sectionName": ""
+      },
+      "10": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "19",
+          "20"
+        ],
+        "sectionName": ""
+      },
+      "11": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "21",
+          "22",
+          "23",
+          "24",
+          "20"
+        ],
+        "sectionName": ""
+      },
+      "12": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "11",
+          "11",
+          "11",
+          "11"
+        ],
+        "sectionName": ""
+      },
+      "13": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "3",
+          "8"
+        ],
+        "sectionName": "Verse 2"
+      },
+      "14": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "11",
+          "11",
+          "11",
+          "11"
+        ],
+        "sectionName": "Chorus 2"
+      },
+      "15": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "13",
+          "14",
+          "15",
+          "25",
+          "26",
+          "27",
+          "15"
+        ],
+        "sectionName": ""
+      },
+      "16": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "28",
+          "29"
+        ],
+        "sectionName": ""
+      },
+      "17": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "13",
+          "14",
+          "15",
+          "30",
+          "31",
+          "14",
+          "32"
+        ],
+        "sectionName": ""
+      },
+      "18": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "30",
+          "31",
+          "33",
+          "32",
+          "29"
+        ],
+        "sectionName": ""
+      },
+      "19": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "13",
+          "14",
+          "15",
+          "30",
+          "31",
+          "33",
+          "32"
+        ],
+        "sectionName": ""
+      },
+      "20": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "34"
+        ],
+        "sectionName": ""
+      },
+      "21": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "35"
+        ],
+        "sectionName": ""
+      }
+    },
+    "note": {
+      "1": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "2": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [
+          "1"
+        ],
+        "rightHand": [
+          "1"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "3": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "1"
+        ],
+        "rightHand": [],
+        "tiedString": [
+          3
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "4": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "1"
+        ],
+        "rightHand": [
+          "1"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "5": {
+        "time": 0.75,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [
+          "2"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "6": {
+        "time": 0.25,
+        "type": "16th",
+        "leftHand": [
+          "1"
+        ],
+        "rightHand": [
+          "1"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "7": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [
+          3
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "8": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [
+          "1"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "9": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [
+          "2"
+        ],
+        "rightHand": [
+          "3"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "10": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [
+          "3"
+        ],
+        "rightHand": [
+          "3"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "11": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [],
+        "rightHand": [
+          "1",
+          "2"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "12": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [
+          "1",
+          "4"
+        ],
+        "rightHand": [
+          "1",
+          "2"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "13": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "14": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [
+          6
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "15": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "16": {
+        "time": 0.75,
+        "type": "eighth",
+        "leftHand": [
+          "5"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "17": {
+        "time": 0.25,
+        "type": "16th",
+        "leftHand": [],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "18": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "6"
+        ],
+        "rightHand": [
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "19": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [
+          "7"
+        ],
+        "rightHand": [
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "20": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": [
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "21": {
+        "time": 0.75,
+        "type": "eighth",
+        "leftHand": [
+          "7"
+        ],
+        "rightHand": [
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "22": {
+        "time": 0.25,
+        "type": "16th",
+        "leftHand": [
+          "6"
+        ],
+        "rightHand": [
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "23": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "6"
+        ],
+        "rightHand": [],
+        "tiedString": [
+          5
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "24": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "7"
+        ],
+        "rightHand": [
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "25": {
+        "time": 0.75,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "26": {
+        "time": 0.25,
+        "type": "16th",
+        "leftHand": [
+          "8"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "27": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "8"
+        ],
+        "rightHand": [],
+        "tiedString": [
+          6
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "28": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [
+          "8"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "29": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [
+          "9"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "30": {
+        "time": 0.75,
+        "type": "eighth",
+        "leftHand": [
+          "8"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "31": {
+        "time": 0.25,
+        "type": "16th",
+        "leftHand": [
+          "10"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "32": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "8"
+        ],
+        "rightHand": [
+          "4"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "33": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [
+          "10"
+        ],
+        "rightHand": [],
+        "tiedString": [
+          6
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "34": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": [
+          "2",
+          "4",
+          "5"
+        ],
+        "tiedString": [],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      },
+      "35": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [
+          4,
+          5,
+          6
+        ],
+        "newStartMovement": "",
+        "isRepeatMode": false
+      }
+    },
+    "rightHand": {
+      "1": {
+        "string": 3,
+        "strock": "down"
+      },
+      "2": {
+        "string": 4,
+        "strock": "down"
+      },
+      "3": {
+        "string": 2,
+        "strock": "down"
+      },
+      "4": {
+        "string": 6,
+        "strock": "down"
+      },
+      "5": {
+        "string": 5,
+        "strock": "down"
+      }
+    },
+    "leftHand": {
+      "1": {
+        "pitch": {
+          "3": "E3"
+        },
+        "fingering": "i",
+        "fret": 2,
+        "string": 3,
+        "bar": null
+      },
+      "2": {
+        "pitch": {
+          "2": "C3"
+        },
+        "fingering": "m",
+        "fret": 3,
+        "string": 2,
+        "bar": null
+      },
+      "3": {
+        "pitch": {
+          "2": "B2"
+        },
+        "fingering": "i",
+        "fret": 2,
+        "string": 2,
+        "bar": null
+      },
+      "4": {
+        "pitch": {
+          "4": "A3"
+        },
+        "fingering": "m",
+        "fret": 2,
+        "string": 4,
+        "bar": null
+      },
+      "5": {
+        "pitch": {
+          "6": "G4"
+        },
+        "fingering": "a",
+        "fret": 3,
+        "string": 6,
+        "bar": null
+      },
+      "6": {
+        "pitch": {
+          "5": "D4"
+        },
+        "fingering": "a",
+        "fret": 3,
+        "string": 5,
+        "bar": null
+      },
+      "7": {
+        "pitch": {
+          "5": "C4"
+        },
+        "fingering": "i",
+        "fret": 1,
+        "string": 5,
+        "bar": null
+      },
+      "8": {
+        "pitch": {
+          "6": "G4"
+        },
+        "fingering": "i",
+        "fret": 3,
+        "string": 6,
+        "bar": null
+      },
+      "9": {
+        "pitch": {
+          "6": "F#4"
+        },
+        "fingering": "i",
+        "fret": 2,
+        "string": 6,
+        "bar": null
+      },
+      "10": {
+        "pitch": {
+          "6": "A4"
+        },
+        "fingering": "a",
+        "fret": 5,
+        "string": 6,
+        "bar": null
+      }
+    },
+    "lyricsTimeline": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "lyricsMeasure": {
+      "1": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [],
+        "sectionName": ""
+      }
+    },
+    "lyricsNote": {},
+    "harmonyTimeline": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "3",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "4",
+      "5",
+      "6",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "7",
+      "5",
+      "6",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "8",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "9",
+      "5",
+      "6",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "7",
+      "5",
+      "6",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "7",
+      "5",
+      "6",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "10",
+      "1"
+    ],
+    "harmonyMeasure": {
+      "1": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "1"
+        ],
+        "sectionName": ""
+      },
+      "2": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "1"
+        ],
+        "sectionName": "Intro"
+      },
+      "3": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "1"
+        ],
+        "sectionName": "Verse 1"
+      },
+      "4": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2"
+        ],
+        "sectionName": "Chorus 1"
+      },
+      "5": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "3"
+        ],
+        "sectionName": ""
+      },
+      "6": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "4"
+        ],
+        "sectionName": ""
+      },
+      "7": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2"
+        ],
+        "sectionName": ""
+      },
+      "8": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "1"
+        ],
+        "sectionName": "Verse 2"
+      },
+      "9": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "2"
+        ],
+        "sectionName": "Chorus 2"
+      },
+      "10": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "5"
+        ],
+        "sectionName": ""
+      }
+    },
+    "harmonyNote": {
+      "1": {
+        "time": 4,
+        "type": "whole",
+        "chordName": "",
+        "stringPlayed": [],
+        "leftHand": [],
+        "signature": ""
+      },
+      "2": {
+        "time": 4,
+        "type": "whole",
+        "chordName": "G5",
+        "stringPlayed": [],
+        "leftHand": [],
+        "signature": ""
+      },
+      "3": {
+        "time": 4,
+        "type": "whole",
+        "chordName": "A5",
+        "stringPlayed": [],
+        "leftHand": [],
+        "signature": ""
+      },
+      "4": {
+        "time": 4,
+        "type": "whole",
+        "chordName": "end",
+        "stringPlayed": [],
+        "leftHand": [],
+        "signature": ""
+      },
+      "5": {
+        "time": 4,
+        "type": "whole",
+        "chordName": "Em",
+        "stringPlayed": [],
+        "leftHand": [],
+        "signature": ""
+      }
+    },
+    "harmonyLeftHand": [],
+    "rhythmTimeline": [
+      "1",
+      "2",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3"
+    ],
+    "rhythmMeasure": {
+      "1": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "1",
+          "2"
+        ],
+        "sectionName": ""
+      },
+      "2": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "sectionName": ""
+      },
+      "3": {
+        "bpm": "125",
+        "beat": "4",
+        "beatType": "4",
+        "notes": [],
+        "sectionName": ""
+      }
+    },
+    "rhythmNote": {
+      "1": {
+        "time": 2,
+        "type": "half",
+        "lyrics": "1"
+      },
+      "2": {
+        "time": 2,
+        "type": "half",
+        "lyrics": "2"
+      },
+      "3": {
+        "time": 1,
+        "type": "quarter",
+        "lyrics": "1"
+      },
+      "4": {
+        "time": 1,
+        "type": "quarter",
+        "lyrics": "2"
+      },
+      "5": {
+        "time": 1,
+        "type": "quarter",
+        "lyrics": "3"
+      },
+      "6": {
+        "time": 1,
+        "type": "quarter",
+        "lyrics": "4"
+      }
+    }
+  }
+}

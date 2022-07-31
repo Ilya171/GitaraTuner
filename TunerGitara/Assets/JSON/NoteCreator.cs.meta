@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2e4217ae2decb994984a11f6f1dbffe3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _beat: {instanceID: 0}
+  - notePrefab: {instanceID: 0}
+  - note6: {instanceID: 0}
+  - note5: {instanceID: 0}
+  - note4: {instanceID: 0}
+  - note3: {instanceID: 0}
+  - note2: {instanceID: 0}
+  - note1: {instanceID: 0}
+  - FingerRed: {instanceID: 0}
+  - FingerBlue: {instanceID: 0}
+  - FingerYelow: {instanceID: 0}
+  - FingerGreen: {instanceID: 0}
+  - FingerThumb: {instanceID: 0}
+  - FF7: {fileID: 4900000, guid: 08e03ca8517b8034f9a9bc4efdb34db5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

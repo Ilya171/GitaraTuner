@@ -1,0 +1,1935 @@
+{
+  "score": {
+    "infos": {
+      "title": "FF7",
+      "artist": "",
+      "guitarType": "BPM",
+      "tuning": [
+        { "string": "1", "pitch": "E2" },
+        { "string": "2", "pitch": "A2" },
+        { "string": "3", "pitch": "D3" },
+        { "string": "4", "pitch": "G3" },
+        { "string": "5", "pitch": "B3" },
+        { "string": "6", "pitch": "E4" }
+      ],
+      "capo": ""
+    },
+    "timeline": [
+      "1",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "15",
+      "15",
+      "1",
+      "16",
+      "17",
+      "18",
+      "19",
+      "16",
+      "17",
+      "20",
+      "19",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "25",
+      "26",
+      "27",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "21",
+      "40",
+      "34",
+      "35",
+      "36",
+      "37",
+      "41",
+      "42",
+      "43",
+      "44",
+      "16",
+      "17",
+      "20",
+      "45",
+      "16",
+      "17",
+      "20",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "51",
+      "52",
+      "53",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "44",
+      "44",
+      "62",
+      "63",
+      "64",
+      "64",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "measure": {
+      "1": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["1"],
+        "sectionName": ""
+      },
+      "2": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["2", "3", "4"],
+        "sectionName": ""
+      },
+      "3": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["5", "6"],
+        "sectionName": ""
+      },
+      "4": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["7"],
+        "sectionName": ""
+      },
+      "5": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["8", "9", "10"],
+        "sectionName": ""
+      },
+      "6": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["11"],
+        "sectionName": ""
+      },
+      "7": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["12", "13", "9"],
+        "sectionName": ""
+      },
+      "8": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["14", "15"],
+        "sectionName": ""
+      },
+      "9": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["16"],
+        "sectionName": ""
+      },
+      "10": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["17", "18", "10"],
+        "sectionName": ""
+      },
+      "11": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["19"],
+        "sectionName": ""
+      },
+      "12": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["20"],
+        "sectionName": ""
+      },
+      "13": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["2", "21", "22"],
+        "sectionName": ""
+      },
+      "14": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["23", "24"],
+        "sectionName": ""
+      },
+      "15": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["25"],
+        "sectionName": ""
+      },
+      "16": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["26", "27", "21"],
+        "sectionName": ""
+      },
+      "17": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["28", "29"],
+        "sectionName": ""
+      },
+      "18": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["10", "30", "31", "21"],
+        "sectionName": ""
+      },
+      "19": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["32", "33", "30", "27"],
+        "sectionName": ""
+      },
+      "20": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["10", "30", "27", "21"],
+        "sectionName": ""
+      },
+      "21": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["34"],
+        "sectionName": ""
+      },
+      "22": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["35", "21", "32", "21"],
+        "sectionName": ""
+      },
+      "23": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["36"],
+        "sectionName": ""
+      },
+      "24": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["37"],
+        "sectionName": ""
+      },
+      "25": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["38", "39", "40"],
+        "sectionName": ""
+      },
+      "26": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["41", "42"],
+        "sectionName": ""
+      },
+      "27": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["10", "43", "39", "44"],
+        "sectionName": ""
+      },
+      "28": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["45", "46", "43", "39"],
+        "sectionName": ""
+      },
+      "29": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["47", "46", "48"],
+        "sectionName": ""
+      },
+      "30": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["49", "39"],
+        "sectionName": ""
+      },
+      "31": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["38", "50"],
+        "sectionName": ""
+      },
+      "32": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["51"],
+        "sectionName": ""
+      },
+      "33": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["10", "21", "3", "21"],
+        "sectionName": ""
+      },
+      "34": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["52", "53", "53", "52", "54"],
+        "sectionName": ""
+      },
+      "35": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["55", "52", "53"],
+        "sectionName": ""
+      },
+      "36": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["56", "53", "57"],
+        "sectionName": ""
+      },
+      "37": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["35", "58"],
+        "sectionName": ""
+      },
+      "38": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["59", "60", "59", "61", "26"],
+        "sectionName": ""
+      },
+      "39": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["62", "10", "30", "27"],
+        "sectionName": ""
+      },
+      "40": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["63", "64", "52", "65", "52"],
+        "sectionName": ""
+      },
+      "41": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["66", "67", "67", "61", "29"],
+        "sectionName": ""
+      },
+      "42": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["68", "64", "61", "67", "61"],
+        "sectionName": ""
+      },
+      "43": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["59", "53", "53", "52", "54"],
+        "sectionName": ""
+      },
+      "44": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["69"],
+        "sectionName": ""
+      },
+      "45": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["32", "33", "30", "70"],
+        "sectionName": ""
+      },
+      "46": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["71", "33", "72"],
+        "sectionName": ""
+      },
+      "47": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["57", "27"],
+        "sectionName": ""
+      },
+      "48": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["26", "73"],
+        "sectionName": ""
+      },
+      "49": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["74"],
+        "sectionName": ""
+      },
+      "50": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["75"],
+        "sectionName": ""
+      },
+      "51": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["2", "33", "4"],
+        "sectionName": ""
+      },
+      "52": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["76", "6"],
+        "sectionName": ""
+      },
+      "53": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["10", "77", "33", "4"],
+        "sectionName": ""
+      },
+      "54": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["78", "13", "77", "33"],
+        "sectionName": ""
+      },
+      "55": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["79", "13", "80"],
+        "sectionName": ""
+      },
+      "56": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["81", "33"],
+        "sectionName": ""
+      },
+      "57": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["2", "82"],
+        "sectionName": ""
+      },
+      "58": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["83"],
+        "sectionName": ""
+      },
+      "59": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["84", "85", "64"],
+        "sectionName": ""
+      },
+      "60": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["82", "86"],
+        "sectionName": ""
+      },
+      "61": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["30", "87"],
+        "sectionName": ""
+      },
+      "62": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["17", "88"],
+        "sectionName": ""
+      },
+      "63": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["77", "81"],
+        "sectionName": ""
+      },
+      "64": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["89"],
+        "sectionName": ""
+      }
+    },
+    "note": {
+      "1": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "2": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "3": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["1"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "4": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "5": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["2"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "6": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "7": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [6],
+        "newStartMovement": ""
+      },
+      "8": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["3"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "9": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["4"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "10": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "11": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["3"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "12": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["5"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "13": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["3"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "14": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["6"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "15": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["7"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "16": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["7"],
+        "rightHand": [],
+        "tiedString": [5],
+        "newStartMovement": ""
+      },
+      "17": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["8"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "18": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["9"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "19": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["8"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "20": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["8"],
+        "rightHand": [],
+        "tiedString": [4],
+        "newStartMovement": ""
+      },
+      "21": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["10"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "22": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["5"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "23": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["11"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "24": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["12"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "25": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["12"],
+        "rightHand": [],
+        "tiedString": [5],
+        "newStartMovement": ""
+      },
+      "26": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["13"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "27": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["14"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "28": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["15"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "29": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["16"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "30": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["13"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "31": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["17"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "32": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["18"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "33": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["8"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "34": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["10"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "35": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["10"],
+        "rightHand": [],
+        "tiedString": [4],
+        "newStartMovement": ""
+      },
+      "36": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["14"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "37": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["14"],
+        "rightHand": [],
+        "tiedString": [3],
+        "newStartMovement": ""
+      },
+      "38": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["19"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "39": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["20"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "40": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["21"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "41": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["22"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "42": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["23"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "43": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["19"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "44": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["24"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "45": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["25"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "46": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["26"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "47": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["25"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "48": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["27"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "49": {
+        "time": 3,
+        "type": "half",
+        "leftHand": ["24"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "50": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["28"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "51": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["19"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "52": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["10"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "53": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["14"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "54": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["1"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "55": {
+        "time": 3,
+        "type": "half",
+        "leftHand": ["1"],
+        "rightHand": [],
+        "tiedString": [4],
+        "newStartMovement": ""
+      },
+      "56": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["13"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "57": {
+        "time": 3,
+        "type": "half",
+        "leftHand": ["10"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "58": {
+        "time": 3,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "59": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["18"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "60": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["8"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "61": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["16"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "62": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["13"],
+        "rightHand": [],
+        "tiedString": [3],
+        "newStartMovement": ""
+      },
+      "63": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "64": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "65": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["1"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "66": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "67": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": ["15"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "68": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["16"],
+        "rightHand": [],
+        "tiedString": [5],
+        "newStartMovement": ""
+      },
+      "69": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["1"],
+        "rightHand": [],
+        "tiedString": [4],
+        "newStartMovement": ""
+      },
+      "70": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["29"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "71": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["18"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "72": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["30"],
+        "rightHand": ["5"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "73": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["31"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "74": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["32"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "75": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": ["32"],
+        "rightHand": [],
+        "tiedString": [3],
+        "newStartMovement": ""
+      },
+      "76": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["33"],
+        "rightHand": ["3"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "77": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": [],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "78": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["12"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "79": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["34"],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "80": {
+        "time": 1,
+        "type": "quarter",
+        "leftHand": ["32"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "81": {
+        "time": 3,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": ["2"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "82": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["14"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "83": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "84": {
+        "time": 3,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [4],
+        "newStartMovement": ""
+      },
+      "85": {
+        "time": 0.5,
+        "type": "eighth",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [4],
+        "newStartMovement": ""
+      },
+      "86": {
+        "time": 2,
+        "type": "half",
+        "leftHand": [],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "87": {
+        "time": 3,
+        "type": "half",
+        "leftHand": ["1"],
+        "rightHand": ["1"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "88": {
+        "time": 2,
+        "type": "half",
+        "leftHand": ["35"],
+        "rightHand": ["4"],
+        "tiedString": [],
+        "newStartMovement": ""
+      },
+      "89": {
+        "time": 4,
+        "type": "whole",
+        "leftHand": [],
+        "rightHand": [],
+        "tiedString": [5],
+        "newStartMovement": ""
+      }
+    },
+    "rightHand": {
+      "1": { "string": 4, "strock": "down" },
+      "2": { "string": 5, "strock": "down" },
+      "3": { "string": 6, "strock": "down" },
+      "4": { "string": 3, "strock": "down" },
+      "5": { "string": 2, "strock": "down" }
+    },
+    "leftHand": {
+      "1": {
+        "pitch": { "4": "A3" },
+        "fingering": "m",
+        "fret": 2,
+        "string": 4,
+        "bar": null
+      },
+      "2": {
+        "pitch": { "6": "F#4" },
+        "fingering": "m",
+        "fret": 2,
+        "string": 6,
+        "bar": null
+      },
+      "3": {
+        "pitch": { "5": "C4" },
+        "fingering": "i",
+        "fret": 1,
+        "string": 5,
+        "bar": null
+      },
+      "4": {
+        "pitch": { "5": "C#4" },
+        "fingering": "m",
+        "fret": 2,
+        "string": 5,
+        "bar": null
+      },
+      "5": {
+        "pitch": { "4": "A#3" },
+        "fingering": "a",
+        "fret": 3,
+        "string": 4,
+        "bar": null
+      },
+      "6": {
+        "pitch": { "6": "A#4" },
+        "fingering": "a",
+        "fret": 6,
+        "string": 6,
+        "bar": null
+      },
+      "7": {
+        "pitch": { "5": "F4" },
+        "fingering": "m",
+        "fret": 6,
+        "string": 5,
+        "bar": null
+      },
+      "8": {
+        "pitch": { "4": "A3" },
+        "fingering": "i",
+        "fret": 2,
+        "string": 4,
+        "bar": null
+      },
+      "9": {
+        "pitch": { "4": "A#3" },
+        "fingering": "m",
+        "fret": 3,
+        "string": 4,
+        "bar": null
+      },
+      "10": {
+        "pitch": { "4": "G#3" },
+        "fingering": "i",
+        "fret": 1,
+        "string": 4,
+        "bar": null
+      },
+      "11": {
+        "pitch": { "6": "G4" },
+        "fingering": "a",
+        "fret": 3,
+        "string": 6,
+        "bar": null
+      },
+      "12": {
+        "pitch": { "5": "D4" },
+        "fingering": "m",
+        "fret": 3,
+        "string": 5,
+        "bar": null
+      },
+      "13": {
+        "pitch": { "3": "E3" },
+        "fingering": "i",
+        "fret": 2,
+        "string": 3,
+        "bar": null
+      },
+      "14": {
+        "pitch": { "3": "F#3" },
+        "fingering": "a",
+        "fret": 4,
+        "string": 3,
+        "bar": null
+      },
+      "15": {
+        "pitch": { "5": "D#4" },
+        "fingering": "a",
+        "fret": 4,
+        "string": 5,
+        "bar": null
+      },
+      "16": {
+        "pitch": { "5": "C#4" },
+        "fingering": "i",
+        "fret": 2,
+        "string": 5,
+        "bar": null
+      },
+      "17": {
+        "pitch": { "3": "F#3" },
+        "fingering": "m",
+        "fret": 4,
+        "string": 3,
+        "bar": null
+      },
+      "18": {
+        "pitch": { "4": "B3" },
+        "fingering": "a",
+        "fret": 4,
+        "string": 4,
+        "bar": null
+      },
+      "19": {
+        "pitch": { "4": "E4" },
+        "fingering": "a",
+        "fret": 9,
+        "string": 4,
+        "bar": null
+      },
+      "20": {
+        "pitch": { "5": "F#4" },
+        "fingering": "i",
+        "fret": 7,
+        "string": 5,
+        "bar": null
+      },
+      "21": {
+        "pitch": { "5": "G#4" },
+        "fingering": "i",
+        "fret": 9,
+        "string": 5,
+        "bar": null
+      },
+      "22": {
+        "pitch": { "6": "D#5" },
+        "fingering": "a",
+        "fret": 11,
+        "string": 6,
+        "bar": null
+      },
+      "23": {
+        "pitch": { "6": "C#5" },
+        "fingering": "i",
+        "fret": 9,
+        "string": 6,
+        "bar": null
+      },
+      "24": {
+        "pitch": { "5": "G#4" },
+        "fingering": "a",
+        "fret": 9,
+        "string": 5,
+        "bar": null
+      },
+      "25": {
+        "pitch": { "6": "B4" },
+        "fingering": "i",
+        "fret": 7,
+        "string": 6,
+        "bar": null
+      },
+      "26": {
+        "pitch": { "5": "A4" },
+        "fingering": "c",
+        "fret": 10,
+        "string": 5,
+        "bar": null
+      },
+      "27": {
+        "pitch": { "4": "C#4" },
+        "fingering": "i",
+        "fret": 6,
+        "string": 4,
+        "bar": null
+      },
+      "28": {
+        "pitch": { "4": "D#4" },
+        "fingering": "m",
+        "fret": 8,
+        "string": 4,
+        "bar": null
+      },
+      "29": {
+        "pitch": { "3": "F#3" },
+        "fingering": "c",
+        "fret": 4,
+        "string": 3,
+        "bar": null
+      },
+      "30": {
+        "pitch": { "2": "C#3" },
+        "fingering": "a",
+        "fret": 4,
+        "string": 2,
+        "bar": null
+      },
+      "31": {
+        "pitch": { "3": "D#3" },
+        "fingering": "i",
+        "fret": 1,
+        "string": 3,
+        "bar": null
+      },
+      "32": {
+        "pitch": { "3": "E3" },
+        "fingering": "m",
+        "fret": 2,
+        "string": 3,
+        "bar": null
+      },
+      "33": {
+        "pitch": { "6": "F#4" },
+        "fingering": "i",
+        "fret": 2,
+        "string": 6,
+        "bar": null
+      },
+      "34": {
+        "pitch": { "5": "D4" },
+        "fingering": "a",
+        "fret": 3,
+        "string": 5,
+        "bar": null
+      },
+      "35": {
+        "pitch": { "3": "F3" },
+        "fingering": "m",
+        "fret": 3,
+        "string": 3,
+        "bar": null
+      }
+    },
+    "lyricsTimeline": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "lyricsMeasure": {
+      "1": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["1"],
+        "sectionName": ""
+      }
+    },
+    "lyricsNote": {
+      "1": {
+        "time": 4,
+        "type": "whole",
+        "lyrics": "",
+        "tie": false,
+        "endSentence": false,
+        "isSilence": true
+      }
+    },
+    "harmonyTimeline": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "harmonyMeasure": {
+      "1": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["1"],
+        "sectionName": ""
+      }
+    },
+    "harmonyNote": {
+      "1": {
+        "time": 4,
+        "type": "whole",
+        "chordName": "",
+        "stringPlayed": [],
+        "leftHand": [],
+        "signature": ""
+      }
+    },
+    "harmonyLeftHand": [],
+    "rhythmTimeline": [
+      "1",
+      "2",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3"
+    ],
+    "rhythmMeasure": {
+      "1": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["1", "2"],
+        "sectionName": ""
+      },
+      "2": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["3", "4", "5", "6"],
+        "sectionName": ""
+      },
+      "3": {
+        "bpm": "100",
+        "beat": "4",
+        "beatType": "4",
+        "notes": ["7"],
+        "sectionName": ""
+      }
+    },
+    "rhythmNote": {
+      "1": { "time": 2, "type": "half", "lyrics": "1" },
+      "2": { "time": 2, "type": "half", "lyrics": "2" },
+      "3": { "time": 1, "type": "quarter", "lyrics": "1" },
+      "4": { "time": 1, "type": "quarter", "lyrics": "2" },
+      "5": { "time": 1, "type": "quarter", "lyrics": "3" },
+      "6": { "time": 1, "type": "quarter", "lyrics": "4" },
+      "7": { "time": 4, "type": "whole", "lyrics": "" }
+    }
+  }
+}
